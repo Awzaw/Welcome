@@ -1,0 +1,7 @@
+---
+branches: master
+projects:
+  src.main.resources.plugin.yml:
+    path: src/main/resources/
+    model: default
+...
